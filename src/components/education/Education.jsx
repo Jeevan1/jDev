@@ -29,9 +29,9 @@ function Education() {
   const experience = [
     {
       id: 1,
-      name: "React Developer",
+      name: "Frontend Developer Internship at Suga Inc.",
       faculty: "Internship",
-      duration: "July - Sept",
+      duration: "May 2023 – Sep 2023",
     },
 
   ];
