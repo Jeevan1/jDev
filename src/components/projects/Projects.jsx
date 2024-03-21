@@ -86,7 +86,7 @@ function Projects() {
               <div className="project__data__item  my-4 p-2">
                 <div className="project__data__item__left pe-3">
                   <div className="top">
-                    <h4>OneUp: Professional Business Management Dashboard</h4>
+                    <h4>BusinessBoard: Professional Business Management Dashboard</h4>
                     <p>
                       Welcome to the Business Dashboard project, where
                       data-driven decision-making meets streamlined operations.
