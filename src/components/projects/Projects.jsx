@@ -109,7 +109,7 @@ function Projects() {
                   </div>
                   <div className="bottom">
                     <a
-                      href={"https://roaring-empanada-2b388d.netlify.app"}
+                      href={"https://businessboard.netlify.app"}
                       target="_blank"
                     >
                       <button>View Live</button>
@@ -154,7 +154,7 @@ function Projects() {
                     </p>
                   </div>
                   <div className="bottom">
-                    <a href={"https://2tvz84-5173.csb.app/"} target="_blank">
+                    <a href={"https://geostorenp.netlify.app"} target="_blank">
                       <button>View Live</button>
                     </a>
                     <a
